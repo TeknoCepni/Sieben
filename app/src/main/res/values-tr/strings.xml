@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Yedi</string>
+    <string name="start">Başlamak için yukarı sürükle (5 sn sonra) …</string>
+    <string name="start2">ilk egzersizden önce 5 saniye bekle …</string>
+    <string name="app_ok">Tamam</string>
+    <string name="app_no">İptal</string>
+    <string name="app_sec">saniyeler</string>
+    <string name="app_chosenTime">Süreyi seç:</string>
+    <string name="app_standardTime">(Standart:</string>
+    <string name="app_con">Onay</string>
+    <string name="app_con_message">Gerçekten yeniden başlatmak istiyor musun?</string>
+
+    //Statistics
+    <string name="stat_time">Overall time:</string>
+    <string name="stat_number">Sayaç:</string>
+    <string name="stat_average">Ortalama:</string>
+
+    <string name="sort">Sırala</string>
+    <string name="sort_icon">isme göre</string>
+    <string name="sort_number">tekrara göre</string>
+    <string name="sort_hms">zamana göre</string>
+    <string name="sort_average">ortalamaya göre</string>
+    <string name="sort_icon2">isim</string>
+    <string name="sort_number2">tekrar</string>
+    <string name="sort_hms2">zaman (h:m:s)</string>
+    <string name="sort_average2">ortalama (m:s)</string>
+
+    //Intro
+
+    <string name="intro1_title">Yedi</string>
+    <string name="intro1_text">\"Yedi\" kullandığınız için teşekkürler. Açık kaynak kodlu ve tamamen ücretsiz bir proje.</string>
+
+    <string name="intro2_title">Gestures</string>
+    <string name="intro2_text">Swipe down on the image to make a break, swipe up to continue with the workout. Swipe right to
+    reach the previous exercise and left to skip the current one.</string>
+
+    <string name="intro3_title">Settings</string>
+    <string name="intro3_text">There are same basic settings for the app (duration of exercises and breaks, choose exercises). You
+        can also open a statistic overview over done exercises. Now, let\'s start …</string>
+
+
+
+    //Menu Settings
+    <string name="action_settings">Settings | Help | About</string>
+    <string name="action_reset">Reset durations</string>
+
+    <string name="pref_2">Settings</string>
+    <string name="pref_3">Advanced</string>
+    <string name="pref_4">Miscellaneous</string>
+
+    <string name="action_durationEx">Duration per exercise</string>
+    <string name="action_durationEx_summary">Set different duration per exercise.</string>
+
+    <string name="action_stat">Statistics</string>
+    <string name="action_stat_summary">Show some information about performed exercises, total time and average per exercise.</string>
+
+    <string name="action_endless">Endless</string>
+    <string name="action_endless_summary">Start workout again after last exercise.</string>
+
+    <string name="action_tts">TTS</string>
+    <string name="action_tts_summary">Do you want to hear voice commands?</string>
+    <string name="action_beep">Whistle</string>
+    <string name="action_beep_summary">Do you want to hear a whistle after each exercise?</string>
+    <string name="action_duration">Duration: Workout</string>
+    <string name="action_duration2">Duration: Break</string>
+    <string name="action_exercises">Exercises</string>
+    <string name="action_exercises_summary">Choose the exercises you want to perform.</string>
+
+
+    //Snackbar
+    <string name="sn_pause">A short Break …</string>
+    <string name="sn_weiter">… let\'s start again!</string>
+    <string name="end">Done!</string>
+    <string name="sn_first">That\'s the first exercise.</string>
+    <string name="sn_last">That\'s the last exercise.</string>
+    <string name="sn_change" tools:keep="@string/sn_change">Please change from right to left side.</string>
+
+    //Titles
+    <string name="act">1. Exercise - Jumping jacks</string>
+    <string name="act_2" tools:keep="@string/act_2">2. Exercise - Wall sit</string>
+    <string name="act_3" tools:keep="@string/act_3">3. Exercise - Push ups</string>
+    <string name="act_4" tools:keep="@string/act_4">4. Exercise - Abdominal crunch</string>
+    <string name="act_5" tools:keep="@string/act_5">5. Exercise - Step up on chair</string>
+    <string name="act_6" tools:keep="@string/act_6">6. Exercise - Squat</string>
+    <string name="act_7" tools:keep="@string/act_7">7. Exercise - Tricepts on chair</string>
+    <string name="act_8" tools:keep="@string/act_8">8. Exercise - Plank</string>
+    <string name="act_9" tools:keep="@string/act_9">9. Exercise - High knees running</string>
+    <string name="act_10" tools:keep="@string/act_10">10. Exercise - Lunge</string>
+    <string name="act_11" tools:keep="@string/act_11">11. Exercise - Push up with rotation</string>
+    <string name="act_12" tools:keep="@string/act_12">12. Exercise - Side plank right</string>
+    <string name="act_122">12. Exercise - Side plank left</string>
+
+    <string name="acte">1. Exercise</string>
+    <string name="act_2e" tools:keep="@string/act_2e">2. Exercise</string>
+    <string name="act_3e" tools:keep="@string/act_3e">3. Exercise</string>
+    <string name="act_4e" tools:keep="@string/act_4e">4. Exercise</string>
+    <string name="act_5e" tools:keep="@string/act_5e">5. Exercise</string>
+    <string name="act_6e" tools:keep="@string/act_6e">6. Exercise</string>
+    <string name="act_7e" tools:keep="@string/act_7e">7. Exercise</string>
+    <string name="act_8e" tools:keep="@string/act_8e">8. Exercise</string>
+    <string name="act_9e" tools:keep="@string/act_9e">9. Exercise</string>
+    <string name="act_10e" tools:keep="@string/act_10e">10. Exercise</string>
+    <string name="act_11e" tools:keep="@string/act_11e">11. Exercise</string>
+    <string name="act_12e" tools:keep="@string/act_12e">12. Exercise</string>
+
+    <string name="actee">Jumping jacks</string>
+    <string name="act_2ee" tools:keep="@string/act_2ee">Wall sit</string>
+    <string name="act_3ee" tools:keep="@string/act_3ee">Push ups</string>
+    <string name="act_4ee" tools:keep="@string/act_4ee">Abdominal crunch</string>
+    <string name="act_5ee" tools:keep="@string/act_5ee">Step up on chair</string>
+    <string name="act_6ee" tools:keep="@string/act_6ee">Squat</string>
+    <string name="act_7ee" tools:keep="@string/act_7ee">Tricepts on chair</string>
+    <string name="act_8ee" tools:keep="@string/act_8ee">Plank</string>
+    <string name="act_9ee" tools:keep="@string/act_9ee">High knees running</string>
+    <string name="act_10ee" tools:keep="@string/act_10ee">Lunge</string>
+    <string name="act_11ee" tools:keep="@string/act_11ee">Push up with rotation</string>
+    <string name="act_12ee" tools:keep="@string/act_12ee">Side plank</string>
+
+    <string name="pau">Break - then: Wall sit</string>
+    <string name="pau_2" tools:keep="@string/pau_2">Break - then: Push ups"</string>
+    <string name="pau_3" tools:keep="@string/pau_3">Break - then: Abdominal crunch</string>
+    <string name="pau_4" tools:keep="@string/pau_4">Break - then: Step up on chair</string>
+    <string name="pau_5" tools:keep="@string/pau_5">Break - then: Squat</string>
+    <string name="pau_6" tools:keep="@string/pau_6">Break - then: Tricepts on chair"</string>
+    <string name="pau_7" tools:keep="@string/pau_7">Break - then: Plank</string>
+    <string name="pau_8" tools:keep="@string/pau_8">Break - then: High knees running</string>
+    <string name="pau_9" tools:keep="@string/pau_9">Break - then: Lunge</string>
+    <string name="pau_10">Break - then: Push up with rotation</string>
+    <string name="pau_11" tools:keep="@string/pau_11">Break - then: Side plank right</string>
+    <string name="pau_112">Break - please change sides</string>
+
+    //License Dialog
+    <string name="about_title">Copyright © 2016  by Gaukler Faun</string>
+    <string name="about_text">
+        For more information visit the project site on github: https://github.com/scoute-dich/Sieben&lt;br>&lt;br>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see http://www.gnu.org/licenses.</string>
+
+    // About
+
+    <string name="about_settings">About … and other things</string>
+    <string name="about_settings_text">Changelog, help, license, used libraries and more.</string>
+
+    <string name="about_title_dev">Developer</string>
+    <string name="about_title_libs">Used resources</string>
+    <string name="about_title_ext">Contributors</string>
+    <string name="about_title_ext1">French translation</string>
+    <string name="about_title_ext2">Small fixes and whistle</string>
+    <string name="about_title_ext3">Japanese translation</string>
+    <string name="about_title_ext4">Spanish translation</string>
+
+    <string name="about_changelog">Changelog</string>
+    <string name="about_changelog_summary">Open Github site and see what\'s new … (needs internet connection)</string>
+
+    <string name="about_license">License</string>
+    <string name="about_license_summary">The app is licensed under GPL and completely open source and free (as in freedom).</string>
+
+    <string name="about_dev">Gaukler Faun</string>
+    <string name="about_dev_summary">Open my profile on Github (needs internet connection).</string>
+
+    <string name="about_intro">Intro</string>
+    <string name="about_intro_summary">Show the intro screen one more time.</string>
+
+    <string name="about_donate">Donate</string>
+    <string name="about_donate_summary">If you like the app, you can donate to me via Paypal (needs internet connection).</string>
+
+    <string name="about_license_1_title">Workout images</string>
+    <string name="about_license_2_title">Whistle</string>
+    <string name="about_license_1">The pictures from the workout can be found on the Blog of \"C. Gilbert\". Thanks to her
+        for the permission to use them in the app.</string>
+    <string name="about_license_2">The whistle is available under the Creative Commons 0 License.</string>
+    <string name="about_license_3">Used to build the intro screen.</string>
+    <string name="about_license_7">Used to create the \"About screen\".</string>
+    <string name="about_license_8">The source of nearly all icons.</string>
+
+</resources>
